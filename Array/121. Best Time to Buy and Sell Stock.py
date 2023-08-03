@@ -1,5 +1,5 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices: List[int]) -> int:  #Time complexity O(N)
         buy = 0
         sell = 1
         profit = 0

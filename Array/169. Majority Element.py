@@ -8,7 +8,7 @@ class Solution:
         
 # Optimized Algorithm is Moore's algorithm Voting 
 class Solution:
-    def maajor(self,nums: List[int]) -> int: # Time complexity is O(N)
+    def majority(self,nums: List[int]) -> int: # Time complexity is O(N)
         element = 0
         count = 0
         i = 0
